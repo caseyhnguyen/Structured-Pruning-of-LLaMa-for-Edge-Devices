@@ -1,0 +1,4 @@
+2024-12-05 04:34:18 - INFO :       
+==================Generation Results before Pruning================
+
+2024-12-05 04:34:18 - WARNING :       You shouldn't move a model that is dispatched using accelerate hooks.

@@ -1,0 +1,16 @@
+{"time":"2024-12-05T05:59:06.382334037Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-05T05:59:06.382764536Z","level":"INFO","msg":"created symlink","path":"/workspace/LLM-Pruner/wandb/run-20241205_055906-tor3nube/logs/debug-core.log"}
+{"time":"2024-12-05T05:59:06.510573877Z","level":"INFO","msg":"created new stream","id":"tor3nube"}
+{"time":"2024-12-05T05:59:06.511449612Z","level":"INFO","msg":"stream: started","id":"tor3nube"}
+{"time":"2024-12-05T05:59:06.511581122Z","level":"INFO","msg":"writer: Do: started","stream_id":"tor3nube"}
+{"time":"2024-12-05T05:59:06.511611014Z","level":"INFO","msg":"handler: started","stream_id":"tor3nube"}
+{"time":"2024-12-05T05:59:06.511715985Z","level":"INFO","msg":"sender: started","stream_id":"tor3nube"}
+{"time":"2024-12-05T05:59:06.938969571Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-05T08:21:15.725752172Z","level":"INFO","msg":"stream: closing","id":"tor3nube"}
+{"time":"2024-12-05T08:21:15.725916368Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-05T08:21:15.729210204Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-05T08:21:18.239596969Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-05T08:21:18.62850992Z","level":"INFO","msg":"handler: closed","stream_id":"tor3nube"}
+{"time":"2024-12-05T08:21:18.628582275Z","level":"INFO","msg":"writer: Close: closed","stream_id":"tor3nube"}
+{"time":"2024-12-05T08:21:18.628643875Z","level":"INFO","msg":"sender: closed","stream_id":"tor3nube"}
+{"time":"2024-12-05T08:21:18.633839618Z","level":"INFO","msg":"stream: closed","id":"tor3nube"}
